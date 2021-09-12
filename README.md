@@ -115,7 +115,5 @@ Two-Phase Commit Protocol is implemented in 2 Phases:
 
 </br>
 
-### Other Transaction Protocols & Patterns:
-* Try Confirm-Cancel
-* Three Phase Commit
-* Saga
+
+
